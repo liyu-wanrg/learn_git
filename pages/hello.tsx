@@ -1,6 +1,6 @@
 export default function hello() {
     return (
-        <h1>hello world</h1>
+        <h1>hello, welcome to next page</h1>
     )
 }
 
