@@ -4,6 +4,7 @@ export default function hello() {
       <h1>hello, welcome</h1>
       <h2>test commit</h2>
       <h2>test rebase</h2>
+      <h3>changes </h3>
     </div>
   );
 }
